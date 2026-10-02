@@ -75,6 +75,7 @@ This reports correlations with ln(SHU) and −ln(EC50) measurements.
 ## Data
 
 Input data are provided in `data/`, ligand structures in `ligands/`, receptor structures in `receptors/`, and processed outputs in `results/`.
+The AutoDock Vina executable was obtained from: https://github.com/ccsb-scripps/AutoDock-Vina
 
 ## License
 
