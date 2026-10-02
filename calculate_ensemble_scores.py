@@ -4,9 +4,9 @@ import numpy as np
 import pandas as pd
 
 
-SCORES_FILE = "filtered_docking_results.csv"
-POPULATIONS_FILE = "cluster_populations.csv"
-OUTPUT_FILE = "ensemble_docking_scores.csv"
+SCORES_FILE = "results/filtered_docking_results.csv"
+POPULATIONS_FILE = "data/cluster_populations.csv"
+OUTPUT_FILE = "results/ensemble_docking_scores.csv"
 
 R = 0.0019872041  # kcal mol-1 K-1
 T = 298.15
