@@ -5,9 +5,9 @@ import pandas as pd
 from scipy.stats import pearsonr, spearmanr
 
 
-SCORES_FILE = "ensemble_docking_scores.csv"
-SHU_FILE = "pungency_data.csv"
-EC50_FILE = "ec50_data.csv"
+SCORES_FILE = "results/ensemble_docking_scores.csv"
+SHU_FILE = "data/pungency_data.csv"
+EC50_FILE = "data/ec50_data.csv"
 
 
 def metrics(x, y):
