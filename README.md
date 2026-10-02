@@ -76,8 +76,6 @@ This reports correlations with ln(SHU) and −ln(EC50) measurements.
 
 Input data are provided in `data/`, ligand structures in `ligands/`, receptor structures in `receptors/`, and processed outputs in `results/`.
 
-Raw docking outputs and molecular dynamics data will be archived on Zenodo.
-
 ## License
 
 See `LICENSE`.
