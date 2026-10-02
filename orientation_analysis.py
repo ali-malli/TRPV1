@@ -9,9 +9,9 @@ import pandas as pd
 DOCKING_DIR = Path("docking_results")
 RECEPTOR_DIR = Path("receptors")
 
-INPUT_FILE = Path("filtered_docking_results.csv")
-ATOM_FILE = Path("head_tail_atoms.csv")
-OUTPUT_FILE = Path("orientation_results.csv")
+INPUT_FILE = Path("results/filtered_docking_results.csv")
+ATOM_FILE = Path("data/head_tail_atoms.csv")
+OUTPUT_FILE = Path("results/orientation_results.csv")
 
 Y_RESID = 511
 T_RESID = 550
