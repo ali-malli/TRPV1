@@ -15,7 +15,7 @@ OUTPUT_FILE = Path("orientation_results.csv")
 
 Y_RESID = 511
 T_RESID = 550
-EXCLUDED_ATOMS = {"CA"}
+EXCLUDED_ATOMS = {"N", "CA", "C", "O"}
 
 
 def atom_range(text):
