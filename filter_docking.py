@@ -9,7 +9,7 @@ import pandas as pd
 
 DOCKING_DIR = Path("docking_results")
 RECEPTOR_DIR = Path("receptors")
-OUTPUT_FILE = Path("filtered_docking_results.csv")
+OUTPUT_FILE = "results/filtered_docking_results.csv"
 
 Y_RESID = 511
 T_RESID = 550
