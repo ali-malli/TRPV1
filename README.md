@@ -2,6 +2,8 @@
 
 This repository contains the workflow used to analyze molecular dynamics-derived TRPV1 conformations, perform ensemble docking, identify poses satisfying binding-site constraints, characterize ligand orientation, calculate population-weighted Boltzmann ensemble docking scores, and compare these scores with experimental pungency and TRPV1 EC50 data.
 
+All work deposited in this repository was conducted by Ali Malli and Denys Vasyutyn. 
+
 ## Requirements
 
 - Python 3
